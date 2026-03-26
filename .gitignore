@@ -1,0 +1,35 @@
+# Root-level gitignore for the project
+
+# Node modules
+node_modules/
+
+# Environment files
+*.env
+
+# Build outputs
+dist/
+build/
+
+# Frontend and backend specific build dirs
+frontend/dist/
+backend/dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Ignore compiled files
+*.class
+*.o
+
+# Other
+coverage/
