@@ -5,7 +5,7 @@ A high-performance, responsive web application built with the **MERN stack** (Mo
 ---
 
 ## 🚀 Live Demo
-- **Lice:** https://contact-mangement-3haa.vercel.app/login
+- **Link:** https://contact-mangement-3haa.vercel.app/login
 
 ---
 
